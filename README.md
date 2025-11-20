@@ -1,6 +1,6 @@
-# Zillow API Demo
+# Zillow API
 
-A simple Node.js + Express demo emulating a mini Zillow API over an in-memory array of houses.
+A simple Node.js + Express task emulating a mini Zillow API over an in-memory array of houses.
 
 ## Project Structure
 
